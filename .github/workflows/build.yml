@@ -1,0 +1,63 @@
+name: Create Release from Public Assets
+
+on:
+    push:
+        branches:
+            - main # 监听 main 分支 push（即私有仓库 workflow push 的产物）
+
+jobs:
+    release:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout public repo
+              uses: actions/checkout@v4
+
+            - name: Setup gh CLI
+              run: |
+                  sudo apt update
+                  sudo apt install -y gh
+
+            - name: Determine version
+              id: get_version
+              run: |
+                  # 你可以根据目录里的版本文件或者日期生成版本号
+                  VERSION=$(date +%Y%m%d%H%M%S)
+                  echo "version=$VERSION" >> $GITHUB_OUTPUT
+
+            - name: Create GitHub Release
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 公共仓库内置 token
+              run: |
+                  TAG="app-v${{ steps.get_version.outputs.version }}"
+                  echo "Creating Release $TAG"
+                  gh release create "$TAG" --title "App $TAG" --notes "自动生成 Release" --draft
+
+            - name: Upload assets to Release
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: |
+                  TAG="app-v${{ steps.get_version.outputs.version }}"
+                  # 上传构建产物目录下所有文件
+                  for f in dist/* src-tauri/target/release/bundle/* publish/*; do
+                    [ -e "$f" ] || continue
+                    echo "Uploading $f to Release $TAG"
+                    gh release upload "$TAG" "$f" --clobber
+                  done
+
+            - name: Generate latest.json (for Tauri auto-updater)
+              run: |
+                  TAG="app-v${{ steps.get_version.outputs.version }}"
+                  PUB_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+                  cat > latest.json <<EOF
+                    {
+                      "version": "$TAG",
+                      "notes": "自动生成",
+                      "pub_date": "$PUB_DATE",
+                      "platforms": {
+                        "darwin-x64": { "url": "https://github.com/${{ github.repository }}/releases/download/$TAG/installer.dmg" },
+                        "win-x64": { "url": "https://github.com/${{ github.repository }}/releases/download/$TAG/installer.exe" }
+                      }
+                    }
+                  EOF
+                  # 上传 latest.json 到 Release
+                  gh release upload "$TAG" latest.json --clobber

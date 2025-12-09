@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=
+Comment=A Tauri App
+Exec=numi-desktop
+Icon=numi-desktop
+Name=Coinly-desktop
+Terminal=false
+Type=Application

@@ -1,51 +1,51 @@
 {
-  "version": "0.1.3",
+  "version": "0.1.4",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2026-06-06T03:06:04.829Z",
+  "pub_date": "2026-06-06T04:37:31.020Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDJkNU9STGhoMzcwVy83dDVKd0VLMkxFZnJWT0JUYWJ2SjhtU2ZBbTJaaHFITFYvOHdudEhOMkFUaW9VZzg5RjVYUHMzZnEwNlJJcEh2aVkyVjFqcEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzE0OTM5CWZpbGU6Q29pbmx5LWRlc2t0b3AuYXBwLnRhci5negpPUEVKMWZmb0N0TmpBNzBtMHoycThwWjJvUHdKZUlZSVZWNGt4MEx1SlR1aGhmVUpnNEpsV3lISVlBTEJ6WWtMZnNjUXZHZ0JrQ0k5WC9rRDJIWk5BQT09Cg==",
-      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.3/Coinly-desktop_x64.app.tar.gz"
-    },
-    "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDJkNU9STGhoMzcwVy83dDVKd0VLMkxFZnJWT0JUYWJ2SjhtU2ZBbTJaaHFITFYvOHdudEhOMkFUaW9VZzg5RjVYUHMzZnEwNlJJcEh2aVkyVjFqcEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzE0OTM5CWZpbGU6Q29pbmx5LWRlc2t0b3AuYXBwLnRhci5negpPUEVKMWZmb0N0TmpBNzBtMHoycThwWjJvUHdKZUlZSVZWNGt4MEx1SlR1aGhmVUpnNEpsV3lISVlBTEJ6WWtMZnNjUXZHZ0JrQ0k5WC9rRDJIWk5BQT09Cg==",
-      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.3/Coinly-desktop_x64.app.tar.gz"
-    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDB3eHh2aTMwb2VZZlRiRGswd0tvOURHOWhaS0tBbHI2MldSTjhJeWxML2ZIZmFTRnNDRDJFaWZ0REU1VnprcUxuak1YRGNvODdROVpXUkIyNVIwV0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzE0ODYxCWZpbGU6Q29pbmx5LWRlc2t0b3AuYXBwLnRhci5negpPdXhXVU14aE9GVWt3dnBxME1nS085MkNiMElrS2F1Vm1mRWZCOUJ3R3BVdFNic0hwdVNQZndSN0hWcFA5R1FHcWVucW9lUE80dXRiRFFrL0lIK0tEQT09Cg==",
-      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.3/Coinly-desktop_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDU4V0ZqYW1oQjZtays4K3hHV2FFRnl3cEo0ZWhjcnJuL0l2S1FsWGZTMld6dlYwYzh2anVpaDZ6ZTh3MmFSMVdwbEtvYVlrZFR3QXFVMWxuaFNlVUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzIwNDM5CWZpbGU6Q29pbmx5LWRlc2t0b3AuYXBwLnRhci5negpZRFFZVjhPaTd0d3NNQ0Q3MEpQME90MlRhS3FWMWNSOXIwZ20wSDFXdjNoN2JBZEZ5Rnk5RGplUzR0RTJxZjRFTUlpYW1ZOXVmNVNGMEZQRlpFdnNEQT09Cg==",
+      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.4/Coinly-desktop_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDB3eHh2aTMwb2VZZlRiRGswd0tvOURHOWhaS0tBbHI2MldSTjhJeWxML2ZIZmFTRnNDRDJFaWZ0REU1VnprcUxuak1YRGNvODdROVpXUkIyNVIwV0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzE0ODYxCWZpbGU6Q29pbmx5LWRlc2t0b3AuYXBwLnRhci5negpPdXhXVU14aE9GVWt3dnBxME1nS085MkNiMElrS2F1Vm1mRWZCOUJ3R3BVdFNic0hwdVNQZndSN0hWcFA5R1FHcWVucW9lUE80dXRiRFFrL0lIK0tEQT09Cg==",
-      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.3/Coinly-desktop_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDU4V0ZqYW1oQjZtays4K3hHV2FFRnl3cEo0ZWhjcnJuL0l2S1FsWGZTMld6dlYwYzh2anVpaDZ6ZTh3MmFSMVdwbEtvYVlrZFR3QXFVMWxuaFNlVUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzIwNDM5CWZpbGU6Q29pbmx5LWRlc2t0b3AuYXBwLnRhci5negpZRFFZVjhPaTd0d3NNQ0Q3MEpQME90MlRhS3FWMWNSOXIwZ20wSDFXdjNoN2JBZEZ5Rnk5RGplUzR0RTJxZjRFTUlpYW1ZOXVmNVNGMEZQRlpFdnNEQT09Cg==",
+      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.4/Coinly-desktop_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZC9xM0ovK08rSkoyQmt2U21ZbVkzYis4L0RaV1N3KzB5SExYSXcvV3VORldPV3JVLzBLZjk2M1d1SWhiUnZjSG1wd1Rqb0djMzR1SlZoWGJ1UGZvTVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzIwNDgzCWZpbGU6Q29pbmx5LWRlc2t0b3AuYXBwLnRhci5negpoWXdNRmI2UTEzWC9VTUEwR1hKVjFPTTdpcEVFRjJwS0lVYmpUQnNyeE85emJBNlJpSE5uREVSKzRDem5qcDFqZUFtd2U5Mks5WHgwSU93YXRXU0hBdz09Cg==",
+      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.4/Coinly-desktop_x64.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZC9xM0ovK08rSkoyQmt2U21ZbVkzYis4L0RaV1N3KzB5SExYSXcvV3VORldPV3JVLzBLZjk2M1d1SWhiUnZjSG1wd1Rqb0djMzR1SlZoWGJ1UGZvTVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzIwNDgzCWZpbGU6Q29pbmx5LWRlc2t0b3AuYXBwLnRhci5negpoWXdNRmI2UTEzWC9VTUEwR1hKVjFPTTdpcEVFRjJwS0lVYmpUQnNyeE85emJBNlJpSE5uREVSKzRDem5qcDFqZUFtd2U5Mks5WHgwSU93YXRXU0hBdz09Cg==",
+      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.4/Coinly-desktop_x64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDAxYjZGQ0ZaWndHZlRsWkFaa3dEdDVJL2oyMFlRUWl5bFBtajhldS92QWZWYXFrZmlvMmJ4S0UxQlBSbmdMYU9WMWl5VUFzSHZqT1h3WHpab1RkQ2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzE1MTU1CWZpbGU6Q29pbmx5LWRlc2t0b3BfMC4xLjNfYW1kNjQuQXBwSW1hZ2UKK0sxQm9IMkg3MFlHSU1qQXdSaGdHdnp2Y1E3REJ2VU9BcTFUeGwrTmtnanpReW9HVkgyRlFSYnNlbVA3Z0NwUXl6YW9KcEFNZXJCY1dUZ2ozeUtSREE9PQo=",
-      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.3/Coinly-desktop_0.1.3_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDUzU3Bxb1UrazZBQWJ0WFdVdmNmT2JTWHoxMzc2RldQK3d3Yy9UQjRtNFlvMlBUQTIrdHVMc1NBbnBvVG5rU2llNnlpU3VtUFZMcDJiRlk0NHF3VFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzIwNTYxCWZpbGU6Q29pbmx5LWRlc2t0b3BfMC4xLjRfYW1kNjQuQXBwSW1hZ2UKSTdRWXVTSksyY3VQWUJIWDNnZU5lN1BwejAvNUNnZXZsNDllZkMweGRzNzJBNWFHa2tHK0xzT1hWbFUwS3FzdkpDTUtxN05nekZnOEtpa0daNTZmRFE9PQo=",
+      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.4/Coinly-desktop_0.1.4_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDAxYjZGQ0ZaWndHZlRsWkFaa3dEdDVJL2oyMFlRUWl5bFBtajhldS92QWZWYXFrZmlvMmJ4S0UxQlBSbmdMYU9WMWl5VUFzSHZqT1h3WHpab1RkQ2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzE1MTU1CWZpbGU6Q29pbmx5LWRlc2t0b3BfMC4xLjNfYW1kNjQuQXBwSW1hZ2UKK0sxQm9IMkg3MFlHSU1qQXdSaGdHdnp2Y1E3REJ2VU9BcTFUeGwrTmtnanpReW9HVkgyRlFSYnNlbVA3Z0NwUXl6YW9KcEFNZXJCY1dUZ2ozeUtSREE9PQo=",
-      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.3/Coinly-desktop_0.1.3_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDUzU3Bxb1UrazZBQWJ0WFdVdmNmT2JTWHoxMzc2RldQK3d3Yy9UQjRtNFlvMlBUQTIrdHVMc1NBbnBvVG5rU2llNnlpU3VtUFZMcDJiRlk0NHF3VFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzIwNTYxCWZpbGU6Q29pbmx5LWRlc2t0b3BfMC4xLjRfYW1kNjQuQXBwSW1hZ2UKSTdRWXVTSksyY3VQWUJIWDNnZU5lN1BwejAvNUNnZXZsNDllZkMweGRzNzJBNWFHa2tHK0xzT1hWbFUwS3FzdkpDTUtxN05nekZnOEtpa0daNTZmRFE9PQo=",
+      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.4/Coinly-desktop_0.1.4_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZHpUbCtENU1zdmY2a3dDcUFVeDJaY2JZZDdCVkpNeU1lZ3E0eXJNc0JkVmJLRjI3L0lncitYTXB4L0oxQ3d2amtIa1dQS0w5alZvNkpXUEtjb09TdUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzE1MTU1CWZpbGU6Q29pbmx5LWRlc2t0b3BfMC4xLjNfYW1kNjQuZGViCis5dUFnVjZBVnpleHlWczNoc2Jka1dWOWh5ODFBS29PdHRnYXlOTWtBSm1xNktheE5LV0xEUUZBZ3A5L0JWcTdTL1BLMmhDN21FdzFHRzBuMmU1RUNnPT0K",
-      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.3/Coinly-desktop_0.1.3_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZHhtOGx4TkI0Y2hodzRjc0grdWc3T052UzU1NGRyRWx5L2FBSGhQcUZwSnpqdWFYbkNZTU5NNjJodkV5YklNNVl6aUF6dktSQ0dtOWZSbVJpdTZiSmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzIwNTYxCWZpbGU6Q29pbmx5LWRlc2t0b3BfMC4xLjRfYW1kNjQuZGViCkFGc1dMd1BxWlNmeTg4akgxem5kTm1KejlUd0ltenBmY0h4VDladW5uTThIbStaQ0NGdHhIeWYrSkFGWk10ZEtNdytwMCs5OUo5eXRRdG9Xd1VLUkNRPT0K",
+      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.4/Coinly-desktop_0.1.4_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDcxSGtLd2VlZldrU2IwOEkwUWF6ejMzaUxNcFJmOHRMdWZtdkFsUFBraHVRUEVxUnQ1R3VtQnR3QWxOWkVZUndLeXN5cUt5K3hGTkpmYnU3REZDWHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzE1MTU1CWZpbGU6Q29pbmx5LWRlc2t0b3AtMC4xLjMtMS54ODZfNjQucnBtCjJlclI3cXloNE8wd3puekkzMUJMOEFvVE1CM2JCazVlTTJVS2JHb01PcjlYSEFnZzZrcG00YVRycE15STJlQ2w4R0xZZGNjSTFRSDNXaXpSUTByT0FBPT0K",
-      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.3/Coinly-desktop-0.1.3-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDI5VUtPNUdxSVErTmJEaWN2ZzlxYkpubzFNdWJDclFGZnl4N1RaZ0lRV0RCS2JuVTg2Z1VXVFhva0NWeTJyNTVVdkdHL0E4SFlxKzRwOCt3RUI0amdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzIwNTYxCWZpbGU6Q29pbmx5LWRlc2t0b3AtMC4xLjQtMS54ODZfNjQucnBtCm8yOGRzYmZIc0xxRVFxV052WUYzMWR6dXNWYnpuT2sxNithc1c2WVB5KzNqU2Q0Z291bFY3VlVVVHNZUkdXMjBaRkpQVXFzSHZDU3dDbVorUUcyWUNnPT0K",
+      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.4/Coinly-desktop-0.1.4-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZCtYejgxL2VDMUtFZWV4YVg3TFl6bURmWWtObDdmS2FualVSYkF4Nm50ZG00NkZSc1ZKTEdraGNjOTdENk1hSXhjUXhWa2JQL0EySjE1Y21makFLWXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzE1MTM4CWZpbGU6Q29pbmx5LWRlc2t0b3BfMC4xLjNfeDY0X2VuLVVTLm1zaQp0NkRTUXpDT1R1UTRHYjFmQ0hQYVR4UEY4OHEyRE14YXFibTd5NDU3Q2FqbWJ6S1A3S1V4TmtGT1Jvdnc1dHFDUGtZM0RyNVZOT2h2eFMrdTBNaXJBdz09Cg==",
-      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.3/Coinly-desktop_0.1.3_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDc5cXpiTnJ4dmRHRUhJbm43QXUydFg2c1ZObjVHRUlBbE5zTXdsN1hjYlhqQlBickF0bDNZSG9iUkpzVm9rdTc5S21FZzdSQkRjUCtuUXd6WnU0aXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzIwNjQ3CWZpbGU6Q29pbmx5LWRlc2t0b3BfMC4xLjRfeDY0X2VuLVVTLm1zaQpjZnJTbFZmUm5YZW9Ib2x6WFRLVVpqRWJOY25ncEZZUmkwN0VONDNlQVNsd05mYWRPRldkQTNIQ0t3M3NHUUptTXRkamxDZGo4bHYyUExvdk5iTVRDUT09Cg==",
+      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.4/Coinly-desktop_0.1.4_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZCtYejgxL2VDMUtFZWV4YVg3TFl6bURmWWtObDdmS2FualVSYkF4Nm50ZG00NkZSc1ZKTEdraGNjOTdENk1hSXhjUXhWa2JQL0EySjE1Y21makFLWXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzE1MTM4CWZpbGU6Q29pbmx5LWRlc2t0b3BfMC4xLjNfeDY0X2VuLVVTLm1zaQp0NkRTUXpDT1R1UTRHYjFmQ0hQYVR4UEY4OHEyRE14YXFibTd5NDU3Q2FqbWJ6S1A3S1V4TmtGT1Jvdnc1dHFDUGtZM0RyNVZOT2h2eFMrdTBNaXJBdz09Cg==",
-      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.3/Coinly-desktop_0.1.3_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDc5cXpiTnJ4dmRHRUhJbm43QXUydFg2c1ZObjVHRUlBbE5zTXdsN1hjYlhqQlBickF0bDNZSG9iUkpzVm9rdTc5S21FZzdSQkRjUCtuUXd6WnU0aXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzIwNjQ3CWZpbGU6Q29pbmx5LWRlc2t0b3BfMC4xLjRfeDY0X2VuLVVTLm1zaQpjZnJTbFZmUm5YZW9Ib2x6WFRLVVpqRWJOY25ncEZZUmkwN0VONDNlQVNsd05mYWRPRldkQTNIQ0t3M3NHUUptTXRkamxDZGo4bHYyUExvdk5iTVRDUT09Cg==",
+      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.4/Coinly-desktop_0.1.4_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZHlLWjQvb3FDMkQ1dWVoOFRZdkpvb3ZiUWVhL1MzbzRqd2VSV203ZjdkaGdYck1MYzJJN2ZMdjVjenpaeHpUdzFFajdXb0VoTnJ2UXVjVWp4ZDFIQmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzE1MTM4CWZpbGU6Q29pbmx5LWRlc2t0b3BfMC4xLjNfeDY0LXNldHVwLmV4ZQp6aVBYSGQrbDgzeW9EWm50KzRsZVBhMVdXV2IwVWVJRy91aEFtNEIzdnhHeWdsem9LUlRZTHBFK2FOOU1SRGlxa0NXVDJVaTMwQmloQWVoMXdyT3FEdz09Cg==",
-      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.3/Coinly-desktop_0.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUTdYVWhSVG9RZDhKRFNWWSt2akc1dVlybkRnRjlvU1h0WnNBSUozR3E0N3FEVi9VSlk2UUJoVnVxQVRtdS9xOVMvTXRMUUNPS0k4Y1F3czVYcjZqOXRCT1YyWjdxaFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzIwNjQ3CWZpbGU6Q29pbmx5LWRlc2t0b3BfMC4xLjRfeDY0LXNldHVwLmV4ZQpHaCtiY01PcW1NRFh4cUZSVk1zL3Uwc1o5OUg2UnduQ0NPaUo0Q1R1UjQ3b0xpdkU2b2ZHc0FSVEY4Z0pJSnhpNklXUnA4bXdIblJucDZYOFo2UGRDZz09Cg==",
+      "url": "https://github.com/1260215278/numi-desktop-release/releases/download/app-v0.1.4/Coinly-desktop_0.1.4_x64-setup.exe"
     }
   }
 }
